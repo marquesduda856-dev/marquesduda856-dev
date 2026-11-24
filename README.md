@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Eduarda - Software Development">
+</p>
+
+
 # Hi, I'm Eduarda! 👋
 
 ### Software Development Student | Aspiring Developer
